@@ -1,6 +1,8 @@
 # How to run
 _________________________________________________________
-Navigate to ./exe folder
+Navigate to ./exe folder.
+
+
 Run GUI_for_GBACK_util_backup_restore_db_Firebird.exe
 
 # How to use
