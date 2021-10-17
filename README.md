@@ -1,5 +1,4 @@
-# GUI_for_GBACK_util_backup_restore_db_Firebird
-How to use
+# How to use
 _______________________________________________________
 1) сhoose GBACK.exe 
 2) choose Firebird database file or Firebird database backup
